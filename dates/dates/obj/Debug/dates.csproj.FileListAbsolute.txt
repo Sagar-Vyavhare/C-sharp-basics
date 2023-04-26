@@ -1,0 +1,8 @@
+D:\programs\C sharp\dates\dates\bin\Debug\dates.exe.config
+D:\programs\C sharp\dates\dates\bin\Debug\dates.exe
+D:\programs\C sharp\dates\dates\bin\Debug\dates.pdb
+D:\programs\C sharp\dates\dates\obj\Debug\dates.csproj.AssemblyReference.cache
+D:\programs\C sharp\dates\dates\obj\Debug\dates.csproj.SuggestedBindingRedirects.cache
+D:\programs\C sharp\dates\dates\obj\Debug\dates.csproj.CoreCompileInputs.cache
+D:\programs\C sharp\dates\dates\obj\Debug\dates.exe
+D:\programs\C sharp\dates\dates\obj\Debug\dates.pdb

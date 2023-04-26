@@ -1,0 +1,8 @@
+D:\programs\C sharp\StringPrograms\StringPrograms\bin\Debug\StringPrograms.exe.config
+D:\programs\C sharp\StringPrograms\StringPrograms\bin\Debug\StringPrograms.exe
+D:\programs\C sharp\StringPrograms\StringPrograms\bin\Debug\StringPrograms.pdb
+D:\programs\C sharp\StringPrograms\StringPrograms\obj\Debug\StringPrograms.csproj.AssemblyReference.cache
+D:\programs\C sharp\StringPrograms\StringPrograms\obj\Debug\StringPrograms.csproj.SuggestedBindingRedirects.cache
+D:\programs\C sharp\StringPrograms\StringPrograms\obj\Debug\StringPrograms.csproj.CoreCompileInputs.cache
+D:\programs\C sharp\StringPrograms\StringPrograms\obj\Debug\StringPrograms.exe
+D:\programs\C sharp\StringPrograms\StringPrograms\obj\Debug\StringPrograms.pdb
