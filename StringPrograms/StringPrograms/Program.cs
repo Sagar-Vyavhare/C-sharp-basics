@@ -235,18 +235,22 @@ namespace StringPrograms
             
             for (int i = 0; i < str.Length; i++)
             {
-                if(j<sub_str.Length)
-                {
                     if (str[i] == sub_str[j])
                     {
                         new_sub_str += str[i];
                         j++;
+                        if (sub_str.Equals(new_sub_str))
+                        {
+                            Console.WriteLine(sub_str + " is substring of " + str);
+                            break;
+                        }
+                        
                     }
                     else
                     {
                         if (sub_str.Equals(new_sub_str))
                         {
-                            Console.WriteLine(sub_str + " is substring of " + str);
+                            Console.WriteLine(sub_str + "  is substring of " + str);
                             break;
                         }
                         else
@@ -254,24 +258,14 @@ namespace StringPrograms
                             j = 0;
                         }
                     }
-                }
-                else
-                {
-                    if (sub_str.Equals(new_sub_str))
-                    {
-                        Console.WriteLine(sub_str + " is substring of " + str);
-                        break;
-                    }
-                    else
-                    {
-                        j = 0;
-                    }
-                }
+               
             }
-            if (sub_str.Equals(new_sub_str))
+            if (!sub_str.Equals(new_sub_str))
             {
-                Console.WriteLine(sub_str + " is substring of " + str);
+                Console.WriteLine(sub_str + "  is not substring of " + str);
+
             }
+
 
         }
         static void Main(string[] args)
